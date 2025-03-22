@@ -1,6 +1,6 @@
 import React from "react";
 
-const Search = ({ searchTerm, setSearchTerm }) => {
+const Search = ({ searchTerm, setSearchTerm, isTyping }) => {
   return (
     <div className="search">
       <div>
@@ -11,6 +11,7 @@ const Search = ({ searchTerm, setSearchTerm }) => {
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
         />
+        {isTyping && <span>Typing...</span>}
       </div>
     </div>
   );
