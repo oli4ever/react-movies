@@ -2,7 +2,9 @@
 
 A modern movie browsing application built with React that allows users to discover, search, and explore popular movies.
 
-https://drive.google.com/file/d/1ORiavz0vCr2KJwmIZc8yFIuc_VmjAJ4Q/view?usp=drive_link
+### Home Page
+
+![React Movies App Home Page](https://i.imgur.com/7Q8GQat.jpeg)
 
 ## Live Demo
 
