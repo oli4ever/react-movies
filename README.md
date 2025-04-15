@@ -1,12 +1,30 @@
-# React + Vite
+# React Movies App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern movie browsing application built with React that allows users to discover, search, and explore popular movies.
 
-Currently, two official plugins are available:
+<img src="/Screenshot_React Movies App.jpg" alt="React Movies App" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Demo
 
-## Expanding the ESLint configuration
+Check out the live version: [React Movies App](https://react-movies-git-main-md-waliul-alams-projects.vercel.app/)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- Browse popular, top-rated, and upcoming movies
+- Search for any movie
+- View detailed movie information including:
+  - Synopsis
+  - Rating
+  - Release date
+  - Cast information
+- Responsive design that works on mobile, tablet, and desktop
+- Clean, modern UI with smooth animations
+
+## Technologies Used
+
+- React (Create React App)
+- React Router for navigation
+- TMDB API for movie data
+- Axios for API requests
+- CSS Modules for styling
+- Vercel for deployment
