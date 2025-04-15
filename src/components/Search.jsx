@@ -4,7 +4,7 @@ const Search = ({ searchTerm, setSearchTerm, isTyping }) => {
   return (
     <div className="search">
       <div>
-        <img src="Search.png" alt="search" />
+        <img src="/Search.png" alt="search" />
         <input
           type="text"
           placeholder="Search through thousands of movies"
