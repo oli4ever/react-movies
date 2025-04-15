@@ -4,7 +4,7 @@ A modern movie browsing application built with React that allows users to discov
 
 ### Home Page
 
-![React Movies App Home Page](https://i.imgur.com/7Q8GQat.jpeg)
+![React Movies App Home Page](https://imgur.com/y3cIGW6)
 
 ## Live Demo
 
