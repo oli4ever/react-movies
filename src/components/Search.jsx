@@ -7,7 +7,7 @@ const Search = ({ searchTerm, setSearchTerm, isTyping }) => {
         <img src="/Search.png" alt="search" />
         <input
           type="text"
-          placeholder="Search through thousands of movies"
+          placeholder="Launch Your Search Across Endless Movie Options"
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
         />
