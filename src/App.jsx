@@ -91,12 +91,11 @@ const App = () => {
 
       <div className="wrapper">
         <header>
-          <img src="/hero.png" alt="Hero Banner" />
+          <img className="mt-[-40px]" src="/hero.png" alt="Hero Banner" />
           <h1>
             Curated Just for You: A Seamless{" "}
             <span className="text-gradient">Movie</span> Discovery Experience
           </h1>
-
           <Search searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
         </header>
 

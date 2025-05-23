@@ -4,7 +4,7 @@ A modern movie browsing application built with React that allows users to discov
 
 ### Home Page
 
-![React Movies App Home Page](https://i.imgur.com/y3cIGW6.jpeg)
+![React Movies App Home Page](https://i.imgur.com/ewCuj4P.jpeg)
 
 ## Live Demo
 
@@ -30,3 +30,38 @@ Check out the live version: [React Movies App](https://react-movies-git-main-md-
 - Axios for API requests
 - CSS Modules for styling
 - Vercel for deployment
+
+## Installation
+
+Follow these steps to set up the project locally on your machine.
+
+**Prerequisites**
+
+Make sure you have the following installed on your machine:
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+**Cloning the Repository**
+
+```bash
+git clone https://github.com/oli4ever/react-movies.git
+cd react-movies
+```
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+**Running the Project**
+
+```bash
+npm run dev
+```
+
+**Deployment**
+
+This project is configured for easy deployment on Vercel. You can also deploy to other platforms like Netlify or GitHub Pages.

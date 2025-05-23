@@ -29,7 +29,7 @@
   }
 
   h1 {
-    @apply mx-auto mt-6 max-w-4xl text-center text-5xl font-bold leading-tight tracking-[-1%] text-white sm:text-[64px] sm:leading-[76px];
+    @apply mx-auto mt-6 max-w-4xl text-center text-4xl font-bold leading-tight tracking-[-1%] text-white sm:text-[64px] sm:leading-[76px];
   }
 
   h2 {
@@ -144,7 +144,7 @@
 }
 
 @utility text-gradient {
-  @apply bg-linear-to-r from-[#D6C7FF] to-[#AB8BFF] bg-clip-text text-transparent;
+  @apply bg-linear-to-r from-[#bff3f7] to-[#51dae4] bg-clip-text text-transparent;
 }
 
 @utility fancy-text {
