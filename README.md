@@ -8,7 +8,7 @@ A modern movie browsing application built with React that allows users to discov
 
 ## Live Demo
 
-Check out the live version: [React Movies App](https://react-movies-git-main-md-waliul-alams-projects.vercel.app/)
+Check out the live version: [React Movies App](https://react-movies-dinb.vercel.app/)
 
 ## Features
 
