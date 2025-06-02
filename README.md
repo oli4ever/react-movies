@@ -4,11 +4,11 @@ A modern movie browsing application built with React that allows users to discov
 
 ### Home Page
 
-![React Movies App Home Page](https://i.imgur.com/ewCuj4P.jpeg)
+![React Movies App Home Page](https://i.imgur.com/VsJCI7G.jpeg)
 
 ## Live Demo
 
-Check out the live version: [React Movies App](https://react-movies-dinb.vercel.app/)
+Check out the live version: [React Movies App](https://react-movies-gamma-seven.vercel.app/)
 
 ## Features
 
